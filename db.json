@@ -1,0 +1,12 @@
+{
+	"knowledge": [
+		{
+			"link":"https://github.com/Rebwon/TIL/blob/master/interview.md",
+			"description":"각종 IT 기업 면접 질문 답변 정리"
+		},
+	  {
+			"link":"https://github.com/Rebwon/TIL/blob/master/java/reference.md",
+			"description":"JVM과 Rechability"
+		},
+	]
+}
