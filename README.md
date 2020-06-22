@@ -29,6 +29,6 @@ JVM과 Rechability: https://github.com/Rebwon/TIL/blob/master/java/reference.md
 
 개발자 이력서 어떻게 작성할까: https://brunch.co.kr/@hee072794/132
 
-Node.js Hellowolrd : http://www.nextree.co.kr/p8574/
+Node.js Hellowold : http://www.nextree.co.kr/p8574/
 
 프로젝트로 알아보는 더 나은 시스템 만들기(개요) : https://multicore-it.com/84?category=686770
