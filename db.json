@@ -4,9 +4,33 @@
 			"link":"https://github.com/Rebwon/TIL/blob/master/interview.md",
 			"description":"각종 IT 기업 면접 질문 답변 정리"
 		},
-	  {
+	  	{
 			"link":"https://github.com/Rebwon/TIL/blob/master/java/reference.md",
 			"description":"JVM과 Rechability"
+		},
+		{
+			"link":"https://spellofstar.github.io/post/how_to_study_algorithms",
+			"description":"알고리즘 공부"
+		},
+		{
+			"link":"https://www.44bits.io/ko",
+			"description":"클라우드,인프라 공부"
+		},
+		{
+			"link":"https://github.com/Rebwon/TIL/blob/master/testing/testing.md",
+			"description":"자바, TDD, Testing"
+		},
+		{
+			"link":"https://subinium.github.io/what-is-study-for-me/",
+			"description":"개발 공부 선택과 집중"
+		},
+		{
+			"link":"https://brunch.co.kr/@hee072794/132",
+			"description":"개발자 이력서 어떻게 작성할까"
+		},
+		{
+			"link":"http://www.nextree.co.kr/p8574",
+			"description":"Node.js Helloworld"
 		},
 	]
 }
