@@ -11,6 +11,7 @@
 - 다른 사람의 정보를 삭제하는 것은 허용하지 않습니다.
 - 이동할 수 없는 링크는 허용하지 않습니다.
 - 심한 욕설 및 비방글에 대한 링크는 허용하지 않습니다.
+> db.json은 빠른시일내에 https://devstu.co.kr 에서 자동화 하기 위함입니다.
 
 ## 정보공유 링크
 각종 IT 기업 면접 질문 답변 정리: https://github.com/Rebwon/TIL/blob/master/interview.md
