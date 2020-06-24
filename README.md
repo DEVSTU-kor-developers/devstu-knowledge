@@ -32,3 +32,15 @@ JVM과 Rechability: https://github.com/Rebwon/TIL/blob/master/java/reference.md
 Node.js Hellowolrd : http://www.nextree.co.kr/p8574/
 
 프로젝트로 알아보는 더 나은 시스템 만들기(개요) : https://multicore-it.com/84?category=686770
+
+효과적인 깃 연습 사이트: https://learngitbranching.js.org/?locale=ko
+
+자바지기님의 스프링 부트 애플리케이션 과정: https://www.youtube.com/watch?v=JUKehW-c484&list=PLqaSEyuwXkSppQAjwjXZgKkjWbFoUdNXC
+
+조금 더 괜찮은 RestTemplate 1부: https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/
+
+조금 더 괜찮은 RestTemplate 2부: https://taetaetae.github.io/2020/03/29/better-rest-template-2-netflix-hystrix/
+
+스프링 부트에 필터를 조심해서 사용하는 방법: https://taetaetae.github.io/2020/04/06/spring-boot-filter/
+
+모던 자바스크립트 튜토리얼: https://ko.javascript.info/
