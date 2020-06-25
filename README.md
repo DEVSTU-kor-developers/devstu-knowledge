@@ -44,3 +44,7 @@ Node.js Hellowold : http://www.nextree.co.kr/p8574/
 스프링 부트에 필터를 조심해서 사용하는 방법: https://taetaetae.github.io/2020/04/06/spring-boot-filter/
 
 모던 자바스크립트 튜토리얼: https://ko.javascript.info/
+
+라온 피플 머신러닝 강의 : http://blog.naver.com/PostList.nhn?blogId=laonple&from=postList&categoryNo=22
+
+ratsgo's Blog(NLP, DL, CV, GAN) :  https://ratsgo.github.io/blog/categories/
