@@ -19,8 +19,6 @@
 
 JVM과 Rechability: https://github.com/Rebwon/TIL/blob/master/java/reference.md
 
-알고리즘 공부: https://spellofstar.github.io/post/how_to_study_algorithms/
-
 클라우드,인프라 공부: https://www.44bits.io/ko
 
 자바, TDD, Testing : https://github.com/Rebwon/TIL/blob/master/testing/testing.md
