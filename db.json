@@ -59,14 +59,18 @@
 		{
 			"link":"https://ko.javascript.info/",
 			"description":"모던 자바스크립트 튜토리얼"
-		}
+		},
 		{
 			"link":"http://blog.naver.com/PostList.nhn?blogId=laonple&from=postList&categoryNo=22",
 			"description":"라온 피플 머신러닝 강의"
-		}
+		},
 		{
 			"link":"https://ratsgo.github.io/blog/categories/",
 			"description":"ratsgo's blog(NLP, CV, DL etc..)"
+		},
+		{
+			"link":"https://ko.javascript.info/"
+			"description":"Modern Javascript Tutorial" 
 		}
 	]
 }
