@@ -46,3 +46,5 @@ Node.js Hellowold : http://www.nextree.co.kr/p8574/
 라온 피플 머신러닝 강의 : http://blog.naver.com/PostList.nhn?blogId=laonple&from=postList&categoryNo=22
 
 ratsgo's Blog(NLP, DL, CV, GAN) :  https://ratsgo.github.io/blog/categories/
+
+Modern Javascript Tutorial : https://ko.javascript.info/
