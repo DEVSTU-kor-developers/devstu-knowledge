@@ -71,6 +71,14 @@
 		{
 			"link":"https://ko.javascript.info/"
 			"description":"Modern Javascript Tutorial" 
+		},
+		{
+			"link":"https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications",
+			"description":"WebSocket을 이용한 클라이언트 애플리케이션 작성하기"
+		},
+		{
+			"link":"https://bradfrost.com/blog/post/atomic-web-design/",
+			"description":"아토믹 디자인"
 		}
 	]
 }
