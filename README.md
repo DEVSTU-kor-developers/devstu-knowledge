@@ -52,3 +52,8 @@ Modern Javascript Tutorial : https://ko.javascript.info/
 WebSocket을 이용하여 클라이언트 애플리케이션 작성하기 : https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications
 
 아토믹 디자인에 대한 글 : https://bradfrost.com/blog/post/atomic-web-design/
+
+
+## 멤버 블로그
+
+이제영 블로그 : https://ign0relee.github.io/
