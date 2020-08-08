@@ -53,6 +53,7 @@ WebSocket을 이용하여 클라이언트 애플리케이션 작성하기 : http
 
 아토믹 디자인에 대한 글 : https://bradfrost.com/blog/post/atomic-web-design/
 
+typescript4.0 beta : https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/
 
 ## 멤버 블로그
 
