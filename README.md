@@ -57,3 +57,5 @@ WebSocket을 이용하여 클라이언트 애플리케이션 작성하기 : http
 ## 멤버 블로그
 
 이제영 블로그 : https://ign0relee.github.io/
+
+조찬영 블로그 : http://chanyeong.com/blog
