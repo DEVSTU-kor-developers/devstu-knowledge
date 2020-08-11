@@ -55,6 +55,8 @@ WebSocket을 이용하여 클라이언트 애플리케이션 작성하기 : http
 
 typescript4.0 beta : https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/
 
+Medium RAPIDS AI(Open source for GPU Data Science) : https://medium.com/rapids-ai
+
 ## 멤버 블로그
 
 이제영 블로그 : https://ign0relee.github.io/
