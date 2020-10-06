@@ -79,6 +79,10 @@
 		{
 			"link":"https://bradfrost.com/blog/post/atomic-web-design/",
 			"description":"아토믹 디자인"
+		},
+		{
+			"link":"https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/",
+			"description":"Warp를 사용하여 Rust에서 REST API 만들기"
 		}
 	]
 }
