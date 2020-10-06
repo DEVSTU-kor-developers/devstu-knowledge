@@ -57,6 +57,8 @@ typescript4.0 beta : https://devblogs.microsoft.com/typescript/announcing-typesc
 
 Medium RAPIDS AI(Open source for GPU Data Science) : https://medium.com/rapids-ai
 
+Warp를 사용하여 Rust에서 REST API 만들기 : https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/
+
 ## 멤버 블로그
 
 이제영 블로그 : https://ign0relee.github.io/
