@@ -59,6 +59,8 @@ Medium RAPIDS AI(Open source for GPU Data Science) : https://medium.com/rapids-a
 
 Warp를 사용하여 Rust에서 REST API 만들기 : https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/
 
+러스트 프로그래밍 언어 2판 번역 : https://rinthel.github.io/rust-lang-book-ko/
+
 ## 멤버 블로그
 
 이제영 블로그 : https://ign0relee.github.io/
