@@ -1,91 +1,104 @@
 {
-	"knowledge": [
-		{
-			"link":"https://github.com/Rebwon/TIL/blob/master/interview.md",
-			"description":"각종 IT 기업 면접 질문 답변 정리"
-		},
-	  	{
-			"link":"https://github.com/Rebwon/TIL/blob/master/java/reference.md",
-			"description":"JVM과 Rechability"
-		},
-		{
-			"link":"https://spellofstar.github.io/post/how_to_study_algorithms",
-			"description":"알고리즘 공부"
-		},
-		{
-			"link":"https://www.44bits.io/ko",
-			"description":"클라우드,인프라 공부"
-		},
-		{
-			"link":"https://github.com/Rebwon/TIL/blob/master/testing/testing.md",
-			"description":"자바, TDD, Testing"
-		},
-		{
-			"link":"https://subinium.github.io/what-is-study-for-me/",
-			"description":"개발 공부 선택과 집중"
-		},
-		{
-			"link":"https://brunch.co.kr/@hee072794/132",
-			"description":"개발자 이력서 어떻게 작성할까"
-		},
-		{
-			"link":"http://www.nextree.co.kr/p8574",
-			"description":"Node.js Helloworld"
-		},
-		{
-			"link":"https://multicore-it.com/84?category=686770",
-			"description":"프로젝트로 알아보는 더 나은 시스템 만들기(개요)"
-		},
-		{
-			"link":"https://learngitbranching.js.org/?locale=ko",
-			"description":"효과적인 깃 연습 사이트"
-		},
-		{
-			"link":"https://www.youtube.com/watch?v=JUKehW-c484&list=PLqaSEyuwXkSppQAjwjXZgKkjWbFoUdNXC",
-			"description":"자바지기님의 스프링 부트 애플리케이션 과정"
-		},
-		{
-			"link":"https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/",
-			"description":"조금 더 괜찮은 RestTemplate 1부"
-		},
-		{
-			"link":"https://taetaetae.github.io/2020/03/29/better-rest-template-2-netflix-hystrix/",
-			"description":"조금 더 괜찮은 RestTemplate 2부"
-		},
-		{
-			"link":"https://taetaetae.github.io/2020/04/06/spring-boot-filter/",
-			"description":"스프링 부트에 필터를 조심해서 사용하는 방법"
-		},
-		{
-			"link":"https://ko.javascript.info/",
-			"description":"모던 자바스크립트 튜토리얼"
-		},
-		{
-			"link":"http://blog.naver.com/PostList.nhn?blogId=laonple&from=postList&categoryNo=22",
-			"description":"라온 피플 머신러닝 강의"
-		},
-		{
-			"link":"https://ratsgo.github.io/blog/categories/",
-			"description":"ratsgo's blog(NLP, CV, DL etc..)"
-		},
-		{
-			"link":"https://ko.javascript.info/",
-			"description":"Modern Javascript Tutorial" 
-		},
-		{
-			"link":"https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications",
-			"description":"WebSocket을 이용한 클라이언트 애플리케이션 작성하기"
-		},
-		{
-			"link":"https://bradfrost.com/blog/post/atomic-web-design/",
-			"description":"아토믹 디자인"
-		},
-		{
-			"link":"https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/",
-			"description":"Warp를 사용하여 Rust에서 REST API 만들기"
-		},
-			"link":"https://rinthel.github.io/rust-lang-book-ko",
-			"description":"러스트 프로그래밍 언어 2판 번역판"
-		}
-	]
+  "knowledge": [
+    {
+      "link": "https://github.com/Rebwon/TIL/blob/master/interview.md",
+      "description": "각종 IT 기업 면접 질문 답변 정리"
+    },
+    {
+      "link": "https://github.com/Rebwon/TIL/blob/master/java/reference.md",
+      "description": "JVM과 Rechability"
+    },
+    {
+      "link": "https://spellofstar.github.io/post/how_to_study_algorithms",
+      "description": "알고리즘 공부"
+    },
+    {
+      "link": "https://www.44bits.io/ko",
+      "description": "클라우드,인프라 공부"
+    },
+    {
+      "link": "https://github.com/Rebwon/TIL/blob/master/testing/testing.md",
+      "description": "자바, TDD, Testing"
+    },
+    {
+      "link": "https://subinium.github.io/what-is-study-for-me/",
+      "description": "개발 공부 선택과 집중"
+    },
+    {
+      "link": "https://brunch.co.kr/@hee072794/132",
+      "description": "개발자 이력서 어떻게 작성할까"
+    },
+    {
+      "link": "http://www.nextree.co.kr/p8574",
+      "description": "Node.js Helloworld"
+    },
+    {
+      "link": "https://multicore-it.com/84?category=686770",
+      "description": "프로젝트로 알아보는 더 나은 시스템 만들기(개요)"
+    },
+    {
+      "link": "https://learngitbranching.js.org/?locale=ko",
+      "description": "효과적인 깃 연습 사이트"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=JUKehW-c484&list=PLqaSEyuwXkSppQAjwjXZgKkjWbFoUdNXC",
+      "description": "자바지기님의 스프링 부트 애플리케이션 과정"
+    },
+    {
+      "link": "https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/",
+      "description": "조금 더 괜찮은 RestTemplate 1부"
+    },
+    {
+      "link": "https://taetaetae.github.io/2020/03/29/better-rest-template-2-netflix-hystrix/",
+      "description": "조금 더 괜찮은 RestTemplate 2부"
+    },
+    {
+      "link": "https://taetaetae.github.io/2020/04/06/spring-boot-filter/",
+      "description": "스프링 부트에 필터를 조심해서 사용하는 방법"
+    },
+    {
+      "link": "https://ko.javascript.info/",
+      "description": "모던 자바스크립트 튜토리얼"
+    },
+    {
+      "link": "http://blog.naver.com/PostList.nhn?blogId=laonple&from=postList&categoryNo=22",
+      "description": "라온 피플 머신러닝 강의"
+    },
+    {
+      "link": "https://ratsgo.github.io/blog/categories/",
+      "description": "ratsgo's blog(NLP, CV, DL etc..)"
+    },
+    {
+      "link": "https://ko.javascript.info/",
+      "description": "Modern Javascript Tutorial"
+    },
+    {
+      "link": "https://developer.mozilla.org/ko/docs/WebSockets/Writing_WebSocket_client_applications",
+      "description": "WebSocket을 이용한 클라이언트 애플리케이션 작성하기"
+    },
+    {
+      "link": "https://bradfrost.com/blog/post/atomic-web-design/",
+      "description": "아토믹 디자인"
+    },
+    {
+      "link": "https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/",
+      "description": "Warp를 사용하여 Rust에서 REST API 만들기"
+    },
+    {
+      "link": "https://rinthel.github.io/rust-lang-book-ko",
+      "description": "러스트 프로그래밍 언어 2판 번역판"
+    },
+    {
+      "link": "https://www.facebook.com/groups/TensorFlowKR",
+      "description": "tensorflow technology trend"
+    },
+    {
+      "link": "https://www.facebook.com/groups/PyTorchKR/",
+      "description": "pytorch technology trend"
+    },
+    {
+      "link": "https://towardsdatascience.com",
+      "description": "Medium Channel and Writers torward data science"
+    }
+  ]
 }

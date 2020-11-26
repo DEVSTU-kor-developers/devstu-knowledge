@@ -1,20 +1,24 @@
 # devstu-knowledge
 
 ## 소개
+
 좋은 정보를 공유하는 저장소입니다.
 1번 이상의 PR을 하신분들께는 조직초대를 드리고있습니다.  
 정보의 형태는 모두가 알아보기 쉽게 작성해주시면 됩니다.  
-링크를 남겨주셔도 되고, 마크다운으로 작성하셔도 좋습니다.  
+링크를 남겨주셔도 되고, 마크다운으로 작성하셔도 좋습니다.
+
 > 마크다운으로 작성하신 파일은 PR에 같이 날려주세요.
 
 ## PR 규칙
+
 - db.json도 규칙에 맞게 수정해주세요
 - 다른 사람의 정보를 삭제하는 것은 허용하지 않습니다.
 - 이동할 수 없는 링크는 허용하지 않습니다.
 - 심한 욕설 및 비방글에 대한 링크는 허용하지 않습니다.
-> db.json은 빠른시일내에 https://devstu.co.kr 에서 자동화 하기 위함입니다.
+  > db.json은 빠른시일내에 https://devstu.co.kr 에서 자동화 하기 위함입니다.
 
 ## 정보공유 링크
+
 각종 IT 기업 면접 질문 답변 정리: https://github.com/Rebwon/TIL/blob/master/interview.md
 
 JVM과 Rechability: https://github.com/Rebwon/TIL/blob/master/java/reference.md
@@ -45,7 +49,7 @@ Node.js Hellowold : http://www.nextree.co.kr/p8574/
 
 라온 피플 머신러닝 강의 : http://blog.naver.com/PostList.nhn?blogId=laonple&from=postList&categoryNo=22
 
-ratsgo's Blog(NLP, DL, CV, GAN) :  https://ratsgo.github.io/blog/categories/
+ratsgo's Blog(NLP, DL, CV, GAN) : https://ratsgo.github.io/blog/categories/
 
 Modern Javascript Tutorial : https://ko.javascript.info/
 
@@ -60,6 +64,14 @@ Medium RAPIDS AI(Open source for GPU Data Science) : https://medium.com/rapids-a
 Warp를 사용하여 Rust에서 REST API 만들기 : https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/
 
 러스트 프로그래밍 언어 2판 번역판 : https://rinthel.github.io/rust-lang-book-ko/
+
+Recent news(technology trends) about A.I.<br/>
+
+1. Facebook community<br/>
+   -Tensorflow KR : https://www.facebook.com/groups/TensorFlowKR<br/>
+   -Pytorch KR : https://www.facebook.com/groups/PyTorchKR/<br/>
+2. Medium Channel and Writers<br/>
+   -Toward Data Science : https://towardsdatascience.com
 
 ## 멤버 블로그
 
